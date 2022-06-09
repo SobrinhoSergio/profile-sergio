@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Portifólio Web 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Trata-se de um Portifólio Web, feito com intuito de estudar tecnologias Web tais como **ReactJs, TypeScriot, Styled-Components**
 
-## Available Scripts
+## Sobre o projeto 
 
-In the project directory, you can run:
+O Projeto conta com várias seções, que tem como função organizar cada parte do site. O Web Site também está responsivo, assim se adequa a diferentes tipos de telas. E ainda, no final tem links para contato. 
 
-### `npm start`
+## Tecnologias do projeto:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* 👉 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+* 👉 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+* 👉 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## O projeto: 
 
-### `npm test`
+O Projeto está hospedado na Vercel, venha conferir! 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://profile-sergio-dev.vercel.app/"><img src="./public/assets/imagens/projeto1.png"></a>
+<a href="https://profile-sergio-dev.vercel.app/"><img src="./public/assets/imagens/projeto2.png"></a>
 
-### `npm run build`
+## Link do Projeto: 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a href="https://profile-sergio-dev.vercel.app/">Profile Web</a>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Agradecimento: 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Espero que tenha gostado do que eu desenvolvi, pois sou apaixonado por desenvolvimento Web e programação, busco cotidianamente crescer como profissional, para atender a crescente demanda exponencial numa área que eu amo.
 
-### `npm run eject`
+## Contato:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="mailto:sobrinhosergio00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/sobrinhosergio/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="github.com/sobrinhosergio"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a href="https://www.instagram.com/sergio.sob7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
